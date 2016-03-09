@@ -1,0 +1,17 @@
+﻿Der Buildvorgang wurde am 04.03.2016 20:29:00 gestartet.
+     1>Projekt "C:\Prog\PROGRAM\Win32_GraphicsApp\Win32_GraphicsApp\Win32_GraphicsApp.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>ClCompile:
+         C:\Prog\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /IC:\Prog\PROGRAM\Win32_GraphicsApp\ /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Player.cpp
+         Player.cpp
+     1>c:\prog\program\win32_graphicsapp\win32_graphicsapp\player.cpp(17): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+       Link:
+         C:\Prog\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Prog\PROGRAM\Win32_GraphicsApp\Debug\Win32_GraphicsApp.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Prog\PROGRAM\Win32_GraphicsApp\Debug GfxLib.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Prog\PROGRAM\Win32_GraphicsApp\Debug\Win32_GraphicsApp.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Prog\PROGRAM\Win32_GraphicsApp\Debug\Win32_GraphicsApp.lib" /MACHINE:X86 Debug\AppMain.obj
+         Debug\Block.obj
+         Debug\MainGame.obj
+         Debug\Player.obj
+         Win32_GraphicsApp.vcxproj -> C:\Prog\PROGRAM\Win32_GraphicsApp\Debug\Win32_GraphicsApp.exe
+     1>Die Erstellung von Projekt "C:\Prog\PROGRAM\Win32_GraphicsApp\Win32_GraphicsApp\Win32_GraphicsApp.vcxproj" ist abgeschlossen (Build Ziel(e)).
+
+Der Buildvorgang wurde erfolgreich ausgeführt.
+
+Verstrichene Zeit 00:00:01.06
